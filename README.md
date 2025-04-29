@@ -28,7 +28,7 @@ Today you will learn who stakeholders are and what their importance is to IT sys
 
 ## Chapter I <div id="chapter-i"></div>
 
-![](misc/images/Illustration_01.jpg)
+![Illustration_01](misc/images/Illustration_01.jpg)
 
 ### Preamble <div id="11"></div>
 
@@ -149,7 +149,7 @@ Table 1. Stakeholder groups and questions to identify them
 
 The onion diagram helps to identify stakeholders, their relationship to the product, their interests and needs. The elements (stakeholders and stakeholder groups) are shown in concentric circles, the elements in each circle are at the same distance from the system: they depend on it (use the results or data), are external to it but interact with it (receive or transmit information to it).
 
-![](misc/images/img1_eng.png)
+![img1_eng](misc/images/img1_eng.png)
 
 ## Chapter IV <div id="chapter-iv"></div>
 
@@ -226,7 +226,7 @@ The courier should be able to view order information, select an order from those
 
 Build an onion diagram. Here is an example of onion diagram for task 1: 
 
-![](misc/images/img2_eng.png)
+![img2_eng](misc/images/img2_eng.png)
 
 ### Exercise 02 — Interests, Needs, Problems of Stakeholders  <div id="53"></div>
 
