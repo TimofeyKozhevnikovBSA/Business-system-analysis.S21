@@ -184,7 +184,7 @@ The courier should be able to view order information, select an order from those
 1. Create a stakeholder directory.
 2. List stakeholders in the directory.
 3. Define the directory characteristics, i.e. the categories by which the stakeholders of each task will be classified. Specify the characteristics known from the task conditions.
-4. Indicate your answers in the turn-in file ex00\_<product prefix>\_stakeholders.xlsx.
+4. Indicate your answers in the turn-in file `ex00_<product prefix>_stakeholders.xlsx`.
 
 **Recommendations for the task:**
 
@@ -220,7 +220,7 @@ The courier should be able to view order information, select an order from those
 3. Create an Onion Diagram, indicate the layers and stakeholders related to each layer.
 4. In addition, specify those stakeholders that are not specified in the task, but may be common in life.
 5. When identifying stakeholders that are not in the directory, add them to the directory of Ex. 00.
-6. Enter your answers in the turn-in file ex01\_<product prefix>\_onion.xxx (xxx — extension).
+6. Enter your answers in the turn-in file `ex01_<product prefix>_onion.xxx` (xxx — extension).
 
 **Recommendations for the task:**
 
@@ -233,7 +233,7 @@ Build an onion diagram. Here is an example of onion diagram for task 1:
 **Fpr each task:**
 
 1. Write down in a table the interests, needs, problems of stakeholders (including external stakeholders).
-2. Indicate your answers in the turn-in file ex02\_<product prefix>needs.xlsx.
+2. Indicate your answers in the turn-in file `ex02_<product prefix>_needs.xlsx`.
 
 **Recommendations for the task:**
 
@@ -255,4 +255,4 @@ Here in the table is an example of description of interests, needs, problems of 
 
 1. Write down new concepts and terms found in the task into a glossary. 
 2. Find descriptions of concepts and terms and write them in a glossary. 
-3. Indicate your answers in the turn-in file ex03\_<product prefix>glossary.xlsx.
+3. Indicate your answers in the turn-in file `ex03_<product prefix>_glossary.xlsx`.
