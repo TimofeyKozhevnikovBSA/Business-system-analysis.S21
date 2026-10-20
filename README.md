@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Interested Parties (Stakeholders)
 
 Summary:
@@ -269,3 +270,37 @@ Here in the table is an example of description of interests, needs, problems of 
 1. Write down new concepts and terms found in the task into a glossary. 
 2. Find descriptions of concepts and terms and write them in a glossary. 
 3. Indicate your answers in the turn-in file `ex03_<product prefix>_glossary.xlsx`.
+=======
+# Портфолио бизнес-системного аналитика
+
+Привет! Меня зовут Тимофей Кожевников. Я начинающий бизнес-системный аналитик. В этом репозитории собраны мои практические работы, выполненные в рамках обучения в Школе 21 (School 21).
+
+## 🛠️ Мои навыки
+- **Сбор требований:** Интервью, анкетирование, анализ документов, работа со стейкхолдерами.
+- **Моделирование:** Построение декомпозиций (функциональная, объектная, процессная, событийная).
+- **Документирование:** Составление глоссариев, каталогов источников информации, ТЗ.
+- **Инструменты:** Git, Markdown, draw.io, Miro, Excel, REST API (базовый), SQL (продвинутый).
+
+## 📂 Мои проекты
+
+### 1. Анализ требований для сервиса доставки (Delivery)
+**Задача:** Спроектировать систему для стартапа службы доставки (сбор заказов, распределение курьеров, бухгалтерия).
+*   [Каталог источников информации](./src/DLVR/01_Requirements/ex01_DLVR_infosources.xlsx)
+*   [Глоссарий проекта](./src/DLVR/01_Requirements/ex02_DLVR_glossary.xlsx)
+
+### 2. Анализ требований для сети барбершопов (Haircut)
+**Задача:** Спроектировать систему онлайн-записи для сети барбершопов (выбор услуг, мастеров, напоминания).
+*   [Каталог источников информации](./src/HAIR/01_Requirements/ex01_HAIR_infosources.xlsx)
+*   [Глоссарий проекта](./src/HAIR/01_Requirements/ex02_HAIR_glossary.xlsx)
+
+### 3. Декомпозиция систем и процессов
+**Задача:** Отработка навыков разбиения сложных систем на составляющие.
+*   [Декомпозиция демографической пирамиды (Exercise 03)](./src/ex03_decomposition.docx)
+*   [Виды декомпозиции завтрака (Exercise 04)](./src/ex04_types.docx)
+*   [Объектная декомпозиция ролей доставки (Exercise 05)](./src/ex05_types.docx)
+*   [Правила и событийная декомпозиция дня (Exercise 06)](./src/ex06_rules.docx)
+
+## 📫 Контакты
+- **Telegram:** [@tksikcmok](https://t.me/tksikcmok)
+- **GitHub:** [TimofeyKozhevnikovBSA](https://github.com/TimofeyKozhevnikovBSA)
+>>>>>>> f184066002b712a7969e066de11fb22986fe36fc
